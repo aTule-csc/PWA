@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    font-size: 1.5rem;
+}
+.main-block{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.lego{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.input-stuff label{
+    display: block;
+    margin-bottom: 10px;
+}
+.input-stuff input{
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+    padding: 7.5px;
+    border-radius: 5px;
+}
+.input-stuff button{
+    font-size: 1.5rem;
+    width: 75%;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: black;
+    color: #f0f8ff;
+}
+.input-stuff{
+    margin-bottom: 30px;
+}
